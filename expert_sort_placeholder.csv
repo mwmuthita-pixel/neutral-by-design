@@ -1,0 +1,61 @@
+design_id,image_file,brand,brand_pool,product_category,study_id,colour_finish_level,typography_class,rater1,rater2,rater3,rater4,rater5
+D01,data/expert_images/D01.webp,PLACEHOLDER D01,neutral_positioned,skincare,,Light-matte,Sans-serif,F,F,N,N,F
+D02,data/expert_images/D02.webp,PLACEHOLDER D02,neutral_positioned,skincare,,Chromatic-glossy,Sans-serif,F,F,N,F,F
+D03,data/expert_images/D03.webp,PLACEHOLDER D03,gendered,fragrance,,Dark-glossy / metallic,Sans-serif,F,F,F,F,F
+D04,,PLACEHOLDER D04,gendered,fragrance,P6,Light-matte,Script / ornamental,F,F,F,F,F
+D05,data/expert_images/D05.webp,PLACEHOLDER D05,neutral_positioned,skincare,,Earth-textured,Sans-serif,F,F,N,N,F
+D06,,PLACEHOLDER D06,gendered,fragrance,P7,Dark-glossy / metallic,Serif,F,F,F,F,F
+D07,,PLACEHOLDER D07,gendered,fragrance,P9,Light-matte,Sans-serif,F,F,F,F,F
+D08,data/expert_images/D08.webp,PLACEHOLDER D08,gendered,fragrance,,Chromatic-glossy,Serif,F,M,N,F,M
+D09,data/expert_images/D09.webp,PLACEHOLDER D09,neutral_positioned,fragrance,,Chromatic-glossy,Sans-serif,F,F,F,N,F
+D10,data/expert_images/D10.webp,PLACEHOLDER D10,neutral_positioned,skincare,,Dark-glossy / metallic,Script / ornamental,F,F,F,N,F
+D11,,PLACEHOLDER D11,gendered,fragrance,P4,Chromatic-glossy,Serif,F,F,F,F,F
+D12,data/expert_images/D12.webp,PLACEHOLDER D12,gendered,fragrance,,Light-matte,Sans-serif,F,F,N,N,F
+D13,,PLACEHOLDER D13,gendered,fragrance,P1,Chromatic-glossy,Serif,F,F,F,F,F
+D14,data/expert_images/D14.webp,PLACEHOLDER D14,gendered,fragrance,,Light-matte,Sans-serif,F,N,N,N,N
+D15,data/expert_images/D15.webp,PLACEHOLDER D15,neutral_positioned,personal_care,,Light-matte,Sans-serif,N,N,N,N,N
+D16,data/expert_images/D16.webp,PLACEHOLDER D16,neutral_positioned,personal_care,,Earth-textured,Sans-serif,N,N,N,N,F
+D17,data/expert_images/D17.webp,PLACEHOLDER D17,neutral_positioned,personal_care,,Earth-textured,Sans-serif,N,N,N,N,F
+D18,,PLACEHOLDER D18,neutral_positioned,skincare,P5,Light-matte,Sans-serif,N,N,N,N,N
+D19,data/expert_images/D19.webp,PLACEHOLDER D19,neutral_positioned,skincare,,Light-matte,Sans-serif,N,N,N,N,N
+D20,data/expert_images/D20.webp,PLACEHOLDER D20,neutral_positioned,skincare,,Light-matte,Sans-serif,N,N,N,N,N
+D21,,PLACEHOLDER D21,neutral_positioned,personal_care,P10,Earth-textured,Sans-serif,N,N,N,N,N
+D22,data/expert_images/D22.webp,PLACEHOLDER D22,neutral_positioned,fragrance,,Light-matte,Sans-serif,N,N,N,F,N
+D23,data/expert_images/D23.webp,PLACEHOLDER D23,neutral_positioned,fragrance,,Chromatic-glossy,Sans-serif,N,F,N,F,F
+D24,data/expert_images/D24.webp,PLACEHOLDER D24,gendered,fragrance,,Dark-glossy / metallic,Serif,N,M,N,F,F
+D25,data/expert_images/D25.webp,PLACEHOLDER D25,gendered,fragrance,,Earth-textured,Serif,N,N,N,N,F
+D26,data/expert_images/D26.webp,PLACEHOLDER D26,neutral_positioned,fragrance,,Chromatic-glossy,Sans-serif,N,N,N,F,F
+D27,data/expert_images/D27.webp,PLACEHOLDER D27,neutral_positioned,skincare,,Light-matte,Sans-serif,N,M,N,N,M
+D28,data/expert_images/D28.webp,PLACEHOLDER D28,neutral_positioned,skincare,,Light-matte,Sans-serif,N,N,N,N,N
+D29,data/expert_images/D29.webp,PLACEHOLDER D29,neutral_positioned,skincare,,Dark-glossy / metallic,Sans-serif,N,M,N,N,M
+D30,data/expert_images/D30.webp,PLACEHOLDER D30,neutral_positioned,fragrance,,Light-matte,Sans-serif,N,M,N,M,M
+D31,,PLACEHOLDER D31,neutral_positioned,fragrance,P11,Light-matte,Sans-serif,N,N,N,N,N
+D32,,PLACEHOLDER D32,neutral_positioned,skincare,P3,Light-matte,Sans-serif,N,N,N,N,N
+D33,data/expert_images/D33.webp,PLACEHOLDER D33,neutral_positioned,skincare,,Dark-glossy / metallic,Sans-serif,N,N,N,N,M
+D34,data/expert_images/D34.webp,PLACEHOLDER D34,neutral_positioned,skincare,,Light-matte,Script / ornamental,N,N,F,N,F
+D35,data/expert_images/D35.webp,PLACEHOLDER D35,neutral_positioned,fragrance,,Chromatic-glossy,Sans-serif,N,N,M,N,F
+D36,data/expert_images/D36.webp,PLACEHOLDER D36,gendered,fragrance,,Chromatic-glossy,Script / ornamental,N,N,N,F,M
+D37,data/expert_images/D37.webp,PLACEHOLDER D37,gendered,fragrance,,Chromatic-glossy,Script / ornamental,N,N,N,F,M
+D38,data/expert_images/D38.webp,PLACEHOLDER D38,neutral_positioned,fragrance,,Earth-textured,Sans-serif,N,M,N,N,N
+D39,data/expert_images/D39.webp,PLACEHOLDER D39,neutral_positioned,fragrance,,Earth-textured,Sans-serif,N,M,N,N,M
+D40,data/expert_images/D40.webp,PLACEHOLDER D40,neutral_positioned,fragrance,,Earth-textured,Sans-serif,N,N,N,N,N
+D41,,PLACEHOLDER D41,neutral_positioned,personal_care,P8,Earth-textured,Sans-serif,N,N,N,N,N
+D42,data/expert_images/D42.webp,PLACEHOLDER D42,neutral_positioned,skincare,,Light-matte,Serif,N,N,F,N,F
+D43,data/expert_images/D43.webp,PLACEHOLDER D43,neutral_positioned,fragrance,,Chromatic-glossy,Serif,N,M,N,M,F
+D44,data/expert_images/D44.webp,PLACEHOLDER D44,neutral_positioned,skincare,,Light-matte,Sans-serif,N,N,N,N,N
+D45,data/expert_images/D45.webp,PLACEHOLDER D45,neutral_positioned,skincare,,Light-matte,Sans-serif,N,N,N,F,N
+D46,data/expert_images/D46.webp,PLACEHOLDER D46,neutral_positioned,fragrance,,Chromatic-glossy,Sans-serif,M,M,N,M,N
+D47,data/expert_images/D47.webp,PLACEHOLDER D47,neutral_positioned,fragrance,,Earth-textured,Sans-serif,M,N,N,M,M
+D48,data/expert_images/D48.webp,PLACEHOLDER D48,gendered,fragrance,,Chromatic-glossy,Serif,M,F,F,F,F
+D49,data/expert_images/D49.webp,PLACEHOLDER D49,gendered,fragrance,,Chromatic-glossy,Serif,M,M,N,N,M
+D50,data/expert_images/D50.webp,PLACEHOLDER D50,gendered,fragrance,,Light-matte,Serif,M,N,N,N,M
+D51,data/expert_images/D51.webp,PLACEHOLDER D51,gendered,fragrance,,Earth-textured,Sans-serif,M,M,N,N,N
+D52,data/expert_images/D52.webp,PLACEHOLDER D52,gendered,fragrance,,Dark-glossy / metallic,Sans-serif,M,M,N,N,M
+D53,data/expert_images/D53.webp,PLACEHOLDER D53,neutral_positioned,fragrance,,Light-matte,Script / ornamental,M,N,N,N,F
+D54,,PLACEHOLDER D54,neutral_positioned,fragrance,P2,Dark-glossy / metallic,Script / ornamental,M,M,M,M,M
+D55,data/expert_images/D55.webp,PLACEHOLDER D55,neutral_positioned,fragrance,,Dark-glossy / metallic,Sans-serif,M,M,N,M,M
+D56,data/expert_images/D56.webp,PLACEHOLDER D56,neutral_positioned,fragrance,,Dark-glossy / metallic,Sans-serif,M,M,N,M,M
+D57,,PLACEHOLDER D57,gendered,fragrance,P12,Dark-glossy / metallic,Sans-serif,M,M,M,M,M
+D58,data/expert_images/D58.webp,PLACEHOLDER D58,gendered,fragrance,,Dark-glossy / metallic,Serif,M,M,M,N,M
+D59,data/expert_images/D59.webp,PLACEHOLDER D59,gendered,fragrance,,Dark-glossy / metallic,Sans-serif,M,M,N,N,M
+D60,data/expert_images/D60.webp,PLACEHOLDER D60,neutral_positioned,personal_care,,Earth-textured,Sans-serif,M,N,N,M,M
