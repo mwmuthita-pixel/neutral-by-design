@@ -1,0 +1,21 @@
+{
+  "ENABLE_EXPERT_CALIBRATION": false,
+  "paths": {
+    "expertSort": "data/expert_sort.csv",
+    "consumerRatingsNew": "data/consumer_ratings_new.csv"
+  },
+  "thresholds": {
+    "feminineBelow": 3.5,
+    "masculineAbove": 4.5
+  },
+  "bootstrap": { "resamples": 1000, "seed": 20260101, "level": 0.95 },
+  "nearestK": 5,
+  "brandPools": ["neutral_positioned", "gendered"],
+  "productCategories": ["fragrance", "skincare", "personal_care"],
+  "expertColumns": ["design_id","image_file","brand","brand_pool","product_category","study_id","colour_finish_level","typography_class","rater1","rater2","rater3","rater4","rater5"],
+  "labels": {
+    "colourFinish": { "LM": "Light-matte", "ET": "Earth-textured", "CG": "Chromatic-glossy", "DG": "Dark-glossy / metallic" },
+    "typography": { "SA": "Sans-serif", "SC": "Script / ornamental", "SE": "Serif" },
+    "category": { "F": "Feminine", "N": "Neutral", "M": "Masculine", "split": "Split (tie)" }
+  }
+}
